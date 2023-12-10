@@ -13,7 +13,7 @@ header, footer {
 /*  min-width: 500px; */
 }
 header {
-  font-family: 'Bitter', serif;
+  font-family: 'Rubik', serif;
   color: #fff;
   min-height: 100vh;
   display: flex;
@@ -31,7 +31,7 @@ main {
 }
 
 h1 {
-  font-family: 'Raleway', sans-serif;
+  font-family: 'Roboto Mono', sans-serif;
   font-size: calc(1em + 3vw);
   padding-bottom: .67em;
   border-bottom: 1px solid;
@@ -39,8 +39,8 @@ h1 {
 }
 
 h2 {
-  font-family: 'Raleway', sans-serif;
-  font-size: 18px;
+  font-family: 'Roboto Mono', sans-serif;
+  font-size: 24px;
   font-weight: 600;
   letter-spacing: 0.3px;
   text-align: left;
@@ -63,8 +63,8 @@ img {
 
 .bio {
 color: #ffffff;
-font-size: 24px;
-font-family: 'Bitter', serif;
+font-size: 26px;
+font-family: 'Rubik', serif;
 }
 
 .buttonBox {
@@ -100,8 +100,8 @@ font-family: 'Bitter', serif;
 
 
 .description {
-  font-family: 'Bitter', serif;
-  font-size: 14px;
+  font-family: 'Rubik', serif;
+  font-size: 20px;
   font-weight: 300;
   line-height: 1.29;
   letter-spacing: 0.1px;
@@ -117,8 +117,8 @@ font-family: 'Bitter', serif;
 
 footer div {
   height: 100%;
-  font-family: 'Raleway', sans-serif;
-  font-size: 14px;
+  font-family: 'Roboto Mono', sans-serif;
+  font-size: 16px;
   display: flex;
   align-content: center;
   padding: 10px 20px;
